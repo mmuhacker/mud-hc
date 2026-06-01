@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 Hash Calculator — أداة حساب الهاشات
+# 🔐 Hash Calculator   أداة حساب الهاشات
 
 **تعمل على نظام Kali Linux و تطبيق Termux**
 
@@ -246,8 +246,23 @@ mud_hc.py
 
 ---
 
+
+## 📄 الرخصة
+**MIT License — حر الاستخدام مع ذكر المصدر**
+
+---
+</div>
+
+- أداة حساب الهاشات HASH
+- البيئة: Termux (Android) / Kali Linux
+- الإصدار: v1.0
+
+
+
+---
+<div align="center">
+
 ***Madarik Tools — صُنع بالعربية***
 
 ⭐ **إذا أعجبتك الأداة، لا تنسَ النجمة!** ⭐
-
 </div>
